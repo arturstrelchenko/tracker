@@ -1,0 +1,16 @@
+.header{
+    width: 100vw;
+    height: 7vh;
+    background-color: #cecece;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.header__link a{
+text-decoration: none;
+   font-size: 20px;
+    color: black;
+}
+.selected{
+    border-bottom: 4px solid brown;
+}
